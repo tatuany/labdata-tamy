@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "Jokes.html",
+    "href": "Jokes.html",
+    "title": "Jokes",
+    "section": "",
+    "text": "qual_time_nao_tem_mundial\n\n qual_time_nao_tem_mundial (to)\n\n\nqual_time_nao_tem_mundial(to=\"Palmeiras\")\n\n'Time Palmeiras!'"
+  },
+  {
+    "objectID": "greetings.html",
+    "href": "greetings.html",
+    "title": "Greeting",
+    "section": "",
+    "text": "=======\n\nhello-labdata-tamy\n\nLabdata Hello Python Package.\n\n>>>>>>> d4d6ae34dd30ef5bda7d675358997a2bf2cb8616\n<<<<<<< HEAD\n\n\nhello\n\n hello (to)\n\n=======\n\n\n\nhello\n\n hello (to)\n\n>>>>>>> d4d6ae34dd30ef5bda7d675358997a2bf2cb8616\n\nhello(to=\"Tamy\")\n\n'Hi Tamy!'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "labdata-tamy",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "labdata-tamy",
+    "section": "Install",
+    "text": "Install\npip install labdata-tamy"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "labdata-tamy",
+    "section": "How to use",
+    "text": "How to use\nUse esse pacote para cumprimentar as pessoas\n\nhello(to=\"Ana\")\n\n'Hi Ana!'"
+  }
+]
