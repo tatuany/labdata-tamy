@@ -26,5 +26,6 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'tatuany',
                 'version': '0.0.1'},
-  'syms': { 'labdata_tamy\\core': {'labdata_tamy\\core.hello': 'https://tatuany.github.io/labdata_tamy/labdata_tamy\\core.html#hello'},
+  'syms': { 'labdata_tamy\\Jokes': { 'labdata_tamy\\Jokes.qual_time_nao_tem_mundial': 'https://tatuany.github.io/labdata_tamy/labdata_tamy\\Jokes.html#qual_time_nao_tem_mundial'},
+            'labdata_tamy\\core': {'labdata_tamy\\core.hello': 'https://tatuany.github.io/labdata_tamy/labdata_tamy\\core.html#hello'},
             'labdata_tamy\\greetings': {'labdata_tamy\\greetings.hello': 'https://tatuany.github.io/labdata_tamy/labdata_tamy\\greetings.html#hello'}}}
